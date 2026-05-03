@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# SeaTurtle AI: compact Viper-lineage reference architecture for GitHub.
+# SeaTurtle AI: compact reference architecture for GitHub.
 # token stream -> causal lane fields -> final GQA polish -> tied LM head
 
 from dataclasses import dataclass
