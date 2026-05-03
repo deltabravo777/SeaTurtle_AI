@@ -1,6 +1,6 @@
 # SeaTurtle_AI
 
-SeaTurtle AI is an experimental language-model architecture based on the Viper AI research line.
+SeaTurtle AI is an experimental language-model architecture.
 
 The project explores whether a model can learn useful sequence structure with a lightweight field-style architecture instead of relying heavily on full attention. The reference implementation combines causal lane-field propagation, grouped convolutional resonance, per-lane memory decay, and a small attention polish layer.
 
